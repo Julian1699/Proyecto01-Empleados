@@ -10,5 +10,5 @@ La API REST proporcionará las siguientes funcionalidades:
 - Crear empleado: Permite crear un nuevo empleado y almacenarlo en la base de datos.
 - Actualizar empleado: Permite modificar los datos de un empleado existente.
 - Eliminar empleado: Permite eliminar un empleado de la base de datos.
-- 
+
 Con este proyecto, se busca brindar una solución completa para la gestión de empleados, ofreciendo operaciones básicas de creación, modificación y eliminación. Proporcionando un mayor contexto y flexibilidad en la gestión de los recursos humanos de la empresa.
